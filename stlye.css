@@ -1,0 +1,94 @@
+/*
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 20px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+  font-size: 35px;
+  font-family: 'Noto Sans KR', sans-serif;
+  color: red;
+  margin-left: 20px;
+}
+
+#dateDisplay {
+  font-size: 30px;
+  font-family: 'Noto Sans KR', sans-serif;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+#todoContainer {
+  margin-left: 10px;
+  font-size: 15px;
+}
+
+#todoInput {
+  flex: 1;
+  padding: 10px;
+  font-size: 25px;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+}
+
+#addButton {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007BFF;
+  color: #fff;
+  border: none;
+}
+
+#addButton:hover {
+  background-color: #0b4d94;
+}
+
+ul#todoList {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+ul#todoList li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  margin-bottom: 5px;
+  font-size: 30px;
+}
+
+ul#todoList button {
+  padding: 15px 15px;
+  font-size: 20px;
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+ul#todoList button:hover {
+  background-color: #c82333;
+}
+*/
+ul {
+  list-style-type: none;
+}
